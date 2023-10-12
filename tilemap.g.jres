@@ -1,0 +1,62 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile1": {
+        "data": "hwQQABAAAADd3d3d3d1td9Hd3dHd3XZ33d3d3d3dbXbd3d3d3dvdd93d3d3d3W133d3du93dfXbd29273d3dfd3d3d3d3d123d3d3d3d3Xbd3d3d3d12d93d3d3d3W123d3d3d3RfXfdEd3d3d19dt0R3d3d3W133d3dvd3d3XbT3d3d3d3dZg==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "startSpot"
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDA4MGEwODA4MDgwODA4MDgwODA5MDgwODAyMDEwNTA4MDgwODA4MDgwODBhMDgwYTA4MDgwODA4MDIwMTA1MDgwODBhMDkwODA4MDgwYTA4MDgwODA4MDMwMTAxMDUwODA4MDgwODA4MGEwODAzMDQwNDA0MDQwMTAxMDEwNTA4MDgwODA4MDgwODAzMDEwMTAxMDEwMTAxMDEwMTA2MDgwODA5MDgwODAzMDEwMTAxMDEwNzA3MDcwNzA2MDgwODA4MGEwODA4MDIwMTAxMDEwNjA4MDgwODA4MDgwODBhMDgwODA4MDgwMjAxMDEwNjA4MDgwODA4MDkwODA4MDgwODBhMDgwODAyMDEwNTA4MDgwODBhMDgwODA4MGEwODA4MDgwODA4MDIwMTA1MDgwODA4MDgwYTA4MDgwOTA4MDgwODA4MDgwMjAxMDUwODA5MDgwODA4MDgwODA4MDgwODA4MGEwODAyMDEwNTA4MDgwYTA4MDgwODBhMDgwODA4MDgwODA4MDIwMTA1MDgwODBhMDgwODA5MDgwODA4MDgwODA4MDgwMjAxMDUwODA4MDgwODA4MDgwODBhMDgwODA4MDgwODAyMDEwNTA4MDgwODA4MDgwODA4MDgwODA4MDgwODA4MGMwYjA2MDgwODA4MDgwODA4MDgwODA4MjIyMjIyMjIyMjIyMDAyMDIyMjIyMjIyMjIyMjAwMjAyMjIyMjIyMjIyMDIwMDIwMjIyMjIyMDAwMDAwMDAyMDIyMjIwMjAwMDAwMDAwMjAyMjIyMDAwMDAwMDAwMDIyMjIyMjAwMDAyMDIyMjIyMjIyMjIwMDAwMjIyMjIyMjIyMjIyMDAyMDIyMjIyMjIyMjIyMjAwMjAyMjIyMjIyMjIyMjIwMDIwMjIyMjIyMjIyMjIyMDAyMDIyMjIyMjIyMjIyMjAwMjAyMjIyMjIyMjIyMjIwMDIwMjIyMjIyMjIyMjIyMDAyMDIyMjIyMjIyMjIyMjAwMjAyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tilePath5",
+            "sprites.castle.tilePath4",
+            "sprites.castle.tilePath1",
+            "sprites.castle.tilePath2",
+            "sprites.castle.tilePath6",
+            "sprites.castle.tilePath9",
+            "sprites.castle.tilePath8",
+            "sprites.castle.tileDarkGrass1",
+            "sprites.castle.tileDarkGrass2",
+            "sprites.castle.tileDarkGrass3",
+            "myTiles.tile1",
+            "sprites.castle.tilePath7"
+        ],
+        "displayName": "Path"
+    },
+    "level2": {
+        "id": "level2",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDA2MDMwMzAzMDMwMzAzMDMwMzAzMDMwYzAzMDMwMzA0MDcwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDkwNzAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwOTA3MDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTA5MDcwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDkwNzAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwOTA3MDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTA5MGEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDkwNzAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwOTA2MDMwMzAzMDMwNDAxMDEwMTAxMDEwMTAxMDEwMTA5MDcwZDAxMDEwMTA5MDEwMTAxMDEwMTAxMDEwMTAxMDkwNzAxMDEwMTAxMDkwMTAxMDEwMTAxMDEwMTAxMDEwOTBlMDEwMTAxMDEwOTAxMDEwMTAxMDEwMTAxMDEwMTA5MDcwMTAxMDEwMTA5MDEwMTAxMDEwMTAxMDEwMTAxMDkwNzAxMDEwMTAxMDkwMTAxMDEwMTAxMDEwMTAxMDEwOTA1MDIwMjAyMDIwODAyMDIwYjAyMDIwMjAyMDIwMjA4MjIyMjIyMjIyMjIyMjIyMjAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMjIyMjIyMDAwMDAwMDAyMDAyMDAyMDAwMDAwMDAwMjAwMjAwMjAwMDAwMDAwMDIwMDIwMDIwMDAwMDAwMDAyMDAyMDAyMDAwMDAwMDAwMjAwMjAwMjAwMDAwMDAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.dungeon.floorLight0",
+            "sprites.dungeon.purpleOuterSouth1",
+            "sprites.dungeon.purpleOuterNorth1",
+            "sprites.dungeon.purpleOuterNorthEast",
+            "sprites.dungeon.purpleOuterSouthEast",
+            "sprites.dungeon.purpleOuterNorthWest",
+            "sprites.dungeon.purpleOuterWest0",
+            "sprites.dungeon.purpleOuterSouthWest",
+            "sprites.dungeon.purpleOuterEast0",
+            "sprites.dungeon.doorClosedWest",
+            "sprites.dungeon.doorLockedSouth",
+            "sprites.dungeon.purpleSwitchUp",
+            "sprites.dungeon.stairLadder",
+            "sprites.dungeon.purpleOuterWest2"
+        ],
+        "displayName": "level2"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
